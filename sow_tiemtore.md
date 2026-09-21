@@ -1,7 +1,7 @@
 # CS 457 Project Statement of Work (SOW) & Protocol Specification Template
 
 **Student Name:** Abdoul Kadre Tiemtore  
-**Date:** 2027/09/20  
+**Date:** 2027-09-20  
 **Course:** CS 457 - Computer Networks  
 **Target Server Domain:** `server.tiemtore.edu`  
 
